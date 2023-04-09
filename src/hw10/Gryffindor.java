@@ -2,6 +2,7 @@ package hw10;
 
 import java.util.Objects;
 
+
 public class Gryffindor extends Hogwarts {
 
     private final int nobility;
@@ -104,6 +105,5 @@ public class Gryffindor extends Hogwarts {
                     + student.getNameOfStudent() + " are equal");
         }
     }
-
 
 }

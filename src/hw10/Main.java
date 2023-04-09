@@ -3,6 +3,7 @@ import static hw10.Gryffindor.compareGryffindorStudents;
 import static hw10.Hufflepuff.compareHufflepuffStudents;
 import static hw10.Ravenclaw.compareRavenclawStudents;
 import static hw10.Slytherin.compareSlytherinStudents;
+
 public class Main {
     public static void main(String[] args) {
 
