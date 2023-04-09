@@ -103,6 +103,7 @@ public class Hufflepuff extends Hogwarts {
                     + student.getNameOfStudent() + " are equal");
         }
 
+
     }
 
 }
